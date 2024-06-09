@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "968441829215",
+    "project_id": "qr-art-eca6d",
+    "storage_bucket": "qr-art-eca6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968441829215:android:a7cebf50b6a6c1681148ea",
+        "android_client_info": {
+          "package_name": "com.semer.another_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968441829215-gb7v4lrqovd5e97l97aa69kln2243nb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK8NMvPbkkbqjgr6Xu7HC-hgeKuEnb-hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968441829215-gb7v4lrqovd5e97l97aa69kln2243nb0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "968441829215-ds5tj58s22tgac6npc72vrknm633utta.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.qrart"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
